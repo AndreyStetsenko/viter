@@ -1876,6 +1876,14 @@ width: 100%;
     background: #787878;
 }
 
+.tour_card__vkurse {
+    color: #fff;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 700;
+}
+
 /* Popup */
 .img-replace {
   /* replace text with an image */

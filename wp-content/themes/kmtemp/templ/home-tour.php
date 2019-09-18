@@ -121,6 +121,9 @@
                       <p class="tour_card__day">ВС</p>
                     </div>
                   </div>
+                  <div class="tour_card" style="background: none;">
+                      <p class="tour_card__vkurse">Мы будем держать Вас в курсе событий!</p>
+                  </div>
                 </div>
             </div>
             <div class="list_tour_but">

@@ -342,7 +342,7 @@ $(document).on('ready', function() {
         prevArrow: $('.top-arrow'),
         nextArrow: $('.bottom-arrow')
     });
-};
+});
 
 jQuery(document).ready(function($){
 	//open popup
